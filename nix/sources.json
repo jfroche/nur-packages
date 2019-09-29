@@ -1,0 +1,74 @@
+{
+    "niv": {
+        "branch": "master",
+        "description": "Easy dependency management for Nix projects",
+        "homepage": "https://github.com/nmattia/niv",
+        "owner": "nmattia",
+        "repo": "niv",
+        "rev": "1dd094156b249586b66c16200ecfd365c7428dc0",
+        "sha256": "1b2vjnn8iac5iiqszjc2v1s1ygh0yri998c0k3s4x4kn0dsqik21",
+        "type": "tarball",
+        "url": "https://github.com/nmattia/niv/archive/1dd094156b249586b66c16200ecfd365c7428dc0.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nix-linter": {
+        "branch": "master",
+        "description": "Linter for the Nix expression language",
+        "homepage": "",
+        "owner": "Synthetica9",
+        "repo": "nix-linter",
+        "rev": "4aaf60195cd2d9f9e2345fbdf4aac48e1451292c",
+        "sha256": "0c7rcjaxd8z0grwambsw46snv7cg66h3pszw3549z4xz0i60yq87",
+        "type": "tarball",
+        "url": "https://github.com/Synthetica9/nix-linter/archive/4aaf60195cd2d9f9e2345fbdf4aac48e1451292c.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixos-19.09": {
+        "branch": "nixos-19.09",
+        "description": "A read-only mirror of NixOS/nixpkgs tracking the released channels. Send issues and PRs to",
+        "homepage": "https://github.com/NixOS/nixpkgs",
+        "owner": "NixOS",
+        "repo": "nixpkgs-channels",
+        "rev": "b30f86ffc6a5406ec1e78eb22d8c59b52fec896f",
+        "sha256": "0g9xvwyv93m71ikjd6zpw8rfsrgx2b2z35drsj552wiz9jixv5c6",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs-channels/archive/b30f86ffc6a5406ec1e78eb22d8c59b52fec896f.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "nixos-unstable",
+        "description": "A read-only mirror of NixOS/nixpkgs tracking the released channels. Send issues and PRs to",
+        "homepage": "https://github.com/NixOS/nixpkgs",
+        "owner": "NixOS",
+        "repo": "nixpkgs-channels",
+        "rev": "2436c27541b2f52deea3a4c1691216a02152e729",
+        "sha256": "0p98dwy3rbvdp6np596sfqnwlra11pif3rbdh02pwdyjmdvkmbvd",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs-channels/archive/2436c27541b2f52deea3a4c1691216a02152e729.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs-fmt": {
+        "branch": "master",
+        "description": "Nix code formatter for nixpkgs [maintainer=@zimbatm]",
+        "homepage": "https://nix-community.github.io/nixpkgs-fmt/",
+        "owner": "nix-community",
+        "repo": "nixpkgs-fmt",
+        "rev": "e36492b8f6ec954d95e5cc8958e72be425402f17",
+        "sha256": "18kvsgl3kpla33dp1nbpd1kdgndfqcmlwwpjls55fp4mlczf8lcx",
+        "type": "tarball",
+        "url": "https://github.com/nix-community/nixpkgs-fmt/archive/e36492b8f6ec954d95e5cc8958e72be425402f17.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs-unstable": {
+        "branch": "nixpkgs-unstable",
+        "description": "A read-only mirror of NixOS/nixpkgs tracking the released channels. Send issues and PRs to",
+        "homepage": "https://github.com/NixOS/nixpkgs",
+        "owner": "NixOS",
+        "repo": "nixpkgs-channels",
+        "rev": "dd2701e82d882c779f226d0d94590fb77177201f",
+        "sha256": "0zkk412c3sb4m7c5bsg92fkxkvi0df5jp728pkp3w2428p2gpldq",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs-channels/archive/dd2701e82d882c779f226d0d94590fb77177201f.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}

@@ -1,4 +1,4 @@
 = My personal https://github.com/nix-community/NUR[NUR] repository
 
-image:https://img.shields.io/badge/cachix-jfroche-blue.svg[title="Cachix", 
+image:https://img.shields.io/badge/cachix-jfroche-blue.svg[title="Cachix",
 link=https://jfroche.cachix.org]
